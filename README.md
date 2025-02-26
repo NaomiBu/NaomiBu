@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Naomi 👋  
 
-<!--
-**NaomiBu/NaomiBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Driven by curiosity, I’m constantly diving into new technologies to expand my knowledge and build cool things.  
+🌍 Based in **UK**  
+📚 Currently learning **Next.js**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 My Coding Journey  
+
+- 🐍 **Python**  
+- 🎨 **HTML/CSS**  
+- 🚀 **JavaScript**  
+- ⚛️ **React.js**  
+-
+
+---
+
+### 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaomiBu&layout=donut)](https://github.com/NaomiBu/github-readme-stats)
+---
